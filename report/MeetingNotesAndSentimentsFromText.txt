@@ -1,0 +1,25 @@
+Sentiments Report 
+ =====
+ Sentiments result => Neutral- 8 Negative- 5 Positive- 2
+
+
+Agenda of meeting: 
+treamline the next steps on the post go live activities.
+
+Meeting Notes : 
+1:  Alright guys it's very funny situation that you have to be in yourself talking to yourself in the meeting where you're doing a meeting with yourself and trying to be very happy right now because I have to generate some
+2:  face recognition stuff
+3:  That was very very strange that the client for us you know not really with the next you know the last certificates and we had to push yesterday.
+4:  But overall I think we have we had figured out the the overall go live activities and then we were able to successfully push to production.
+5:  Which brings to our firstly the next release which is could you for 10th of July and we need to see if we have enough dev resources to work on the pending tickets and
+6:  Also I was thinking that we need to think from the perspective of the new deployment process that if we can build on demo environment. First so that we can avoid any kind of regressions. I don't like the regressions I have to say like this expression because I'm testing it.
+7:  Hey Peter
+8:  I know there's no Peter but still have to say his name that if you are there and you can set up a demo environment.
+9:  And see if the Jenkins is set up perfectly fine for that. Okay I'll stop laughing now.
+10:  Anybody has to add anything. Now this is the right time to speak. I know there is no one . Nobody will speak or take sons are good.
+
+
+Next Steps :
+1:  And then so checking these I believe our next step should be to be you know if we can talk to Gabby and we can say that we need some additional front end depth.
+2:  And then also the next step will be that I will check with client if they have logged all the tickets
+3:  If all these are done. I think we're in good shape to kick off the next round. And as the next step all sort of the sprint meeting.
